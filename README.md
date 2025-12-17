@@ -12,5 +12,5 @@ Add this to your `.pre-commit-config.yaml`:
 - repo: https://github.com/hoxbro/ty-pre-commit
   rev: v0.0.2
   hooks:
-    - id: ty
+    - id: ty-check
 ```
