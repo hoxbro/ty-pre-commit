@@ -18,8 +18,8 @@ def main():
     version = resp.json()["info"]["version"]
 
     hook = f"""\
-    - id: ty
-      name: ty
+    - id: ty-check
+      name: ty check
       description: ""
       entry: ty check
       language: python
