@@ -1,0 +1,4 @@
+[project]
+name = "ty-pre-commit"
+version = "0.0.0"
+dependencies = []
