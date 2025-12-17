@@ -1,6 +1,6 @@
 # TY pre-commit
 
-For Taplo: see https://github.com/astral-sh/ty
+For TY: see https://github.com/astral-sh/ty
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
 
@@ -12,5 +12,5 @@ Add this to your `.pre-commit-config.yaml`:
 - repo: https://github.com/hoxbro/ty-pre-commit
   rev: v0.0.2
   hooks:
-    - id: taplo
+    - id: ty
 ```
