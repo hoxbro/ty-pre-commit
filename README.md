@@ -10,7 +10,7 @@ Add this to your `.pre-commit-config.yaml`:
 
 ```yaml
 - repo: https://github.com/hoxbro/ty-pre-commit
-  rev: v0.0.109
+  rev: v0.0.110
   hooks:
     - id: ty-check
 ```
